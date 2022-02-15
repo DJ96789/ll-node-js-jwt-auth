@@ -59,7 +59,7 @@ function initial() {
     });   
   
     Role.create({
-      id: 3,
+      id: 5,
       name: "student"
     }); 
 }
